@@ -1,4 +1,6 @@
+
 ![OneStop Logo](Icons/OneStopLogo1.png)
+
  
 OneStop Gaming Shop
 In the gaming community it has been well established that gamers wish to be able to expand their library of games. The biggest wall that has been hit is the none sharing of games across platforms. In our proposal we offer expansion of all gaming platforms that will boost their profits and have their compatibility under one roof for customers. 
